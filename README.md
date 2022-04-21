@@ -1,6 +1,6 @@
 # tcms front
 
-frontend for tcms
+frontend for [telegram client manegment system](https://github.com/BlenderistDev/tcms)
 
 ## Install the dependencies
 ```
